@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanthrhegde&label=Profile%20views&color=0e75b6&style=flat" alt="sushanthrhegde" /> </p>
 
-- 🔭 I’m currently working on **Event Management System**
+- 🔭 I’m currently working on **Suzonix A Music Player**
 
 - 🌱 I’m currently learning **MERN Stack**
 

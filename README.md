@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanthrhegde&label=Profile%20views&color=0e75b6&style=flat" alt="sushanthrhegde" /> </p>
 
-- 🔭 I’m currently working on **Suzonix A Music Player**
+- 🔭 I’m currently working on **Suzzy Blog - A Blog Website using Mern Stack**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **FRONT END TOOLS**
 
-- 📫 How to reach me **sushantrhegde@gmail.com**
+- 📫 How to reach me **sushanthhebri6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

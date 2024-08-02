@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanthrhegde&label=Profile%20views&color=0e75b6&style=flat" alt="sushanthrhegde" /> </p>
 
-- 🔭 I’m currently working on **Suzzy Blog - A Blog Website using Mern Stack**
+- 🔭 I’m currently working on **Suzzy Writes - A Blog Website using Mern Stack**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **FRONT END TOOLS**
+- 💬 Ask me about **FRONT END TOOLS and PROBLEM SOLVING**
 
 - 📫 How to reach me **sushanthhebri6@gmail.com**
 

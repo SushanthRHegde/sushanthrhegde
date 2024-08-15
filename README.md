@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushanth R Hegde</h1>
-<h3 align="center">Sushanth R Hegde, an Information Science student at N.M.A.M. Institute of Technology</h3>
+<h3 align="center">Sushanth R Hegde, Information Science student at N.M.A.M. Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanthrhegde&label=Profile%20views&color=0e75b6&style=flat" alt="sushanthrhegde" /> </p>
 

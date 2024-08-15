@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **FRONT END TOOLS and PROBLEM SOLVING**
+- 💬 Ask me about **FRONT END TOOLS , PROBLEM SOLVING AND NETWORKING **
 
 - 📫 How to reach me **sushanthhebri6@gmail.com**
 
